@@ -29,6 +29,8 @@ npm run dev
 
 docker-compose up -d
 
+3. Open in a browser the following url : http://localhost:3000/home
+
 
 ## Test User
 
