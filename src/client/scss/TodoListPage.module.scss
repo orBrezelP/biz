@@ -1,0 +1,47 @@
+.todoListPage {
+    padding: 24px;
+  }
+  
+  .newTaskInput {
+    margin-bottom: 16px;
+  }
+  
+  .addButton {
+    margin-bottom: 16px;
+  }
+  
+  .uniteTasksButton {
+    margin-bottom: 16px;
+    margin-left: 10px;
+  }
+  
+  .listRow {
+    width: -webkit-fill-available;
+    padding-left: 10px;
+  }
+  
+  .completedTask {
+    text-decoration: line-through;
+    color: gray;
+  }
+  
+  .incompleteTask {
+    text-decoration: none;
+    color: black;
+  }
+  
+  .datePicker {
+    margin-left: 15px;
+  }
+
+  .datePickerTitle {
+    margin-right: 80px;
+  }
+  
+  .primaryButton {
+    margin-right: 10px;
+  }
+
+  .deleteTask {
+    margin-right: 10px;
+  }
