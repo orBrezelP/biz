@@ -16,7 +16,7 @@ git clone https://github.com/orBrezelP/biz.git
 
 2. Install the Node.js dependencies:
 
-npm install
+npm install (you can ignore errors related to webpack)
 
 ## Running the Application
 
